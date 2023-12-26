@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Harsh Jaiswal
-- 🌱 I’m currently learning Android & Webdev
+- 🌱 I’m Professional Python Developer (FLASK and DJANGO)
 - 📫 How to reach me hjaiswal530@gmail.com
 
 <!---
